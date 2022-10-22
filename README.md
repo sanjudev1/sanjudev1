@@ -1,8 +1,8 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software Developer+text;Frontend developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Sanju...</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
