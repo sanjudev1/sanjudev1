@@ -1,10 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+
 
 <h1 align="center">Hi 👋, I'm Sanju...</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Go6Z8vD" data-context="false" ><a href="//imgur.com/a/Go6Z8vD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
