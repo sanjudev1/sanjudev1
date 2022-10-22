@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 
-<h1>Hello... all <img alt="wishing" width="40" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif"/><h1/>
+<h1>Hello... all <img alt="wishing" width="40" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif"/> this is my GitHub account<h1/>
 
 <img  src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Mernstack+developer;Frontend+developer/Sanju"/>
 
