@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanju...</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+developer;Frontend+developer/Sanju"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+developer;Frontend+developer/Sanju"/>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
