@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudev1&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudev1" /> </p>
 
-- 🔭 I’m currently doing internship in **CCBP**
+- 🔭 I’m currently doing internship in **iTalent Digital**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently trainging on **REACT**
 
 - 🤝 I’m looking for help with **Trending Technologies**
 
