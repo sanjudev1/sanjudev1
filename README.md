@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sanjeevch.131@gmail.com**
 
-- 📄 Know about my experiences [https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/SANJEEV_2022-09-16-200947.pdf](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/SANJEEV_2022-11-10-114147.pdf)
+- 📄 Know about my experiences [https://www.cakeresume.com/sanjeev-ch](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/SANJEEV_2022-11-10-114147.pdf)
 
 - ⚡ Fun fact **I am Funny yar, but not sure...**
 
