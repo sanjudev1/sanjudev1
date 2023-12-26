@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sanjeevch.131@gmail.com**
 
-- 📄 Know about my experiences [2023_oct_resume](https://www.cakeresume.com/sanjeev-ch)
+- 📄 Know about my experiences [2023_Dec_resume](https://drive.google.com/file/d/1fze35T7Tdue2ox0NQg198O1aqPx802P5/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny yar, but not sure...**
 
